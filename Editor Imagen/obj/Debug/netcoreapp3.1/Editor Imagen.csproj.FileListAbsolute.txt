@@ -1,0 +1,54 @@
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.exe
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.deps.json
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.runtimeconfig.json
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.runtimeconfig.dev.json
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.dll
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.pdb
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\BibliotecaImagen.dll
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\BibliotecaImagen.pdb
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csprojAssemblyReference.cache
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.AssemblyInfoInputs.cache
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.AssemblyInfo.cs
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csproj.CoreCompileInputs.cache
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csproj.CopyComplete
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.dll
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.pdb
+C:\Users\Grigory\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.exe
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.deps.json
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.runtimeconfig.json
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.runtimeconfig.dev.json
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.dll
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.pdb
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\BibliotecaImagen.dll
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\BibliotecaImagen.pdb
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csproj.CopyComplete
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.dll
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.pdb
+C:\Users\Ruben\Desktop\prototipo 1\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.exe
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.deps.json
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.runtimeconfig.json
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.runtimeconfig.dev.json
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.dll
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\Editor Imagen.pdb
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\BibliotecaImagen.dll
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\bin\Debug\netcoreapp3.1\BibliotecaImagen.pdb
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csproj.CopyComplete
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.dll
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.pdb
+C:\Users\Ruben\Desktop\BibliotecaImagen\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.genruntimeconfig.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csprojAssemblyReference.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.AssemblyInfo.cs
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Editor Imagen\obj\Debug\netcoreapp3.1\Editor Imagen.pdb

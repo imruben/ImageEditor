@@ -1,0 +1,17 @@
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\bin\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\bin\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\obj\Debug\Biblioteca de Clases.csprojAssemblyReference.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\obj\Debug\Biblioteca de Clases.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\obj\Debug\Biblioteca de Clases.csproj.CopyComplete
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\obj\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\Bibliotecaimagen1\obj\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL GRUPO 2\Bibliotecaimagen1\bin\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL GRUPO 2\Bibliotecaimagen1\bin\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL GRUPO 2\Bibliotecaimagen1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL GRUPO 2\Bibliotecaimagen1\obj\Debug\Biblioteca de Clases.csprojAssemblyReference.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL GRUPO 2\Bibliotecaimagen1\obj\Debug\Biblioteca de Clases.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL GRUPO 2\Bibliotecaimagen1\obj\Debug\Biblioteca de Clases.csproj.CopyComplete
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL GRUPO 2\Bibliotecaimagen1\obj\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL GRUPO 2\Bibliotecaimagen1\obj\Debug\Bibliotecaimagen1.pdb

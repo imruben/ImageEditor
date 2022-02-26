@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Editor Imagen/1.0.0": {
+        "dependencies": {
+          "BibliotecaImagen": "1.0.0"
+        },
+        "runtime": {
+          "Editor Imagen.dll": {}
+        }
+      },
+      "BibliotecaImagen/1.0.0": {
+        "runtime": {
+          "BibliotecaImagen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Editor Imagen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaImagen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

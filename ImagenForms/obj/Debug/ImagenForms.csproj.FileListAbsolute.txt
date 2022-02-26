@@ -1,0 +1,90 @@
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\bin\Debug\ImagenForms.exe.config
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\bin\Debug\ImagenForms.exe
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\bin\Debug\ImagenForms.pdb
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\obj\Debug\ImagenForms.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\obj\Debug\ImagenForms.Form1.resources
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\obj\Debug\ImagenForms.Properties.Resources.resources
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\obj\Debug\ImagenForms.csproj.GenerateResource.cache
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\obj\Debug\ImagenForms.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\obj\Debug\ImagenForms.csproj.CopyComplete
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\obj\Debug\ImagenForms.exe
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\obj\Debug\ImagenForms.pdb
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\bin\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Desktop\BibliotecaImagen\ImagenForms\bin\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\bin\Debug\ImagenForms.exe.config
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\bin\Debug\ImagenForms.exe
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\bin\Debug\ImagenForms.pdb
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\bin\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\bin\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\obj\Debug\ImagenForms.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\obj\Debug\ImagenForms.Form1.resources
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\obj\Debug\ImagenForms.Properties.Resources.resources
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\obj\Debug\ImagenForms.csproj.GenerateResource.cache
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\obj\Debug\ImagenForms.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\obj\Debug\ImagenForms.csproj.CopyComplete
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\obj\Debug\ImagenForms.exe
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2\ImagenForms\obj\Debug\ImagenForms.pdb
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.exe.config
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.exe
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.pdb
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.Form1.resources
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.Properties.Resources.resources
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.GenerateResource.cache
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.CopyComplete
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.exe
+C:\Users\Ruben\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.exe.config
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.exe
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csprojAssemblyReference.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.Form1.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.Properties.Resources.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.GenerateResource.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.CopyComplete
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.exe
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.Form2.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO GRUPO 2 (nova versio) (1)\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.Form3.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.exe.config
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.exe
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\ImagenForms.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\bin\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csprojAssemblyReference.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.Properties.Resources.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.GenerateResource.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.csproj.CopyComplete
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.exe
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.FormSalir.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.FormDatos.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.FormImagen.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\PROYECTO GRUPO 2 (nova versio)\ImagenForms\obj\Debug\ImagenForms.FormMarco.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.csprojAssemblyReference.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.FormImagen.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.FormMarco.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.FormSalir.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.FormDatos.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.Properties.Resources.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.csproj.GenerateResource.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.exe
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\bin\Debug\ImagenForms.exe.config
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\bin\Debug\ImagenForms.exe
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\bin\Debug\ImagenForms.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\bin\Debug\Bibliotecaimagen1.dll
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\bin\Debug\Bibliotecaimagen1.pdb
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.csproj.CopyComplete
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.FormCambiarColor.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.FormVoltear.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.FormAcercade.resources
+C:\Users\Ruben\Documents\Desktop\PROYECTO PP FINAL  GRUPO 2\ImagenForms\obj\Debug\ImagenForms.FormRecortar.resources
